@@ -1,0 +1,53 @@
+body{
+	background-color: #98FB98;
+}
+h1{
+	text-align: center;
+	color: black;
+	margin: 5px;
+	padding-bottom: 10px;
+}
+header{
+	background-color: green;
+	padding-top: 5px;
+
+}
+.box{
+	margin: 10px;
+	border-style: groove;
+	border-width: 3px;
+	border-color: black;
+	height: 350px;
+	width: 300px;
+}
+form{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+}
+#p1{
+	margin-left: 5%;
+
+}
+#chat-message{
+	width: 550px;
+	margin-left: -27%; 
+}
+#chatbox{
+	height: 200px;
+	width: 600px;
+	text-align: left;
+	background: white;
+	color: black;
+}
+
+.chat{
+	text-align: center;
+	margin-left: 10%;
+	margin-top: 5%;
+}
+
+.chat input{
+	margin-top: 5px;
+
+}
